@@ -117,7 +117,3 @@ longbreak.addEventListener("click", setLongBreak);
 
 
 updateDisplay();
-
-
-
-updateDisplay();
